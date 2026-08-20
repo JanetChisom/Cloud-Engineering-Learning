@@ -18,7 +18,6 @@ These projects represent some of the early steps in my technology journey and th
 
 
 
-\---
 
 
 
@@ -49,8 +48,6 @@ During this semester, I worked with:
 \- Basic project deployment
 
 
-
-\---
 
 
 
@@ -98,7 +95,6 @@ A project where I worked with JavaScript, APIs, asynchronous operations, and dis
 
 
 
-\---
 
 
 
