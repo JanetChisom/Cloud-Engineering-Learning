@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Student Grade Tracker</title>
+</head>
+<body>
+   <div class="container">
+    <h1>Student Grade Tracker</h1>
+    <form id="studentForm">
+        <input type="text" id="studentName" placeholder="Enter student Name"/>
+         <input type="number" id="studentGrade" placeholder="Enter grade"/>
+         <button type="submit" >Add Student</button>
+    </form>
+
+     <p id="errorMessage"></p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Grade</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+
+      <tbody id="studentList"></tbody>
+    </table>
+
+    <h2>Average Grade: <span id="averageGrade">0</span></h2>
+  </div>
+
+  <script src="script.js"></script>
+
+   </div> 
+</body>
+</html>
