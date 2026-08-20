@@ -70,5 +70,3 @@ I am documenting this journey here because I want to be able to look back and se
 - [ ] Cloud projects
 
 ---
-
-My first semester gave me a foundation in web development and programming. The projects I built during this period are also part of my learning journey and show where I started before focusing more deeply on Cloud Engineering.
