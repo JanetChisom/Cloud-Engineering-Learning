@@ -36,6 +36,4 @@ I learned how to use Cron and crontab to schedule commands and scripts to run au
 I learned about systemd, which is used to manage services and other system resources in Linux.
 I also learned how to use systemctl to check the status of services and manage them by starting, stopping, restarting, enabling, and disabling them.
 
-#Progress:
-This is an ongoing journey. I will continue adding what I learn throughout the semester and i am loving it so far
 
